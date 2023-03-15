@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\bin\Debug\net5.0\muzik_player.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\bin\Debug\net5.0\muzik_player.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\bin\Debug\net5.0\muzik_player.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\bin\Debug\net5.0\muzik_player.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\bin\Debug\net5.0\muzik_player.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\bin\Debug\net5.0\muzik_player.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\refint\muzik_player.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\muzik_player.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\muzik_player\obj\Debug\net5.0\ref\muzik_player.dll
